@@ -7,7 +7,7 @@ authors:
   - admin
 title: Pavel Polivka
 role: Full stack developer
-avatar_filename: 8sumuuos_400x400.jpg
+avatar_filename: avatar.jpg.jpg
 bio: Father, developer, bad sci-fi writer, love to learn stuff
 interests:
   - Programming
