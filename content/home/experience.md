@@ -18,6 +18,19 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Senior Application Developer, AVP"
+  company = "Barclays Investment Bank"
+  company_url = ""
+  location = "Prague"
+  date_start = "2020-07-01"
+  date_end = ""
+  description = """
+  Responsibilities include:
+  
+  * Working on the internal pulishing platform
+  """
+  
+[[experience]]
   title = "Principal Application Developer"
   company = "IDC"
   company_url = ""
