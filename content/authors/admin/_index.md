@@ -35,7 +35,7 @@ email: pavel.polivka@hey.com
 user_groups:
   - ""
 ---
-I am a full stack developer working in maily in Java and Angular, but I can almost anything. 
+I am a full stack developer working in maily in Java and Angular but I can do almost anything. 
 
 I wrote a bad cyberpunk/litRPG novel, working on a better one. 
 
