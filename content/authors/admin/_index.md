@@ -28,7 +28,7 @@ education:
     - course: Masters degree in Information technology
       institution: Technical University Liberec
       year: 2013
-    - course: Bachelor degree in Iformation technology
+    - course: Bachelor degree in Information technology
       institution: Technical University Liberec
       year: 2011
 email: pavel.polivka@hey.com
