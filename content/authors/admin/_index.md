@@ -1,7 +1,5 @@
 ---
-organizations:
-  - name: Barclays Investment Bank
-    url: ""
+organizations: []
 superuser: true
 authors:
   - admin
