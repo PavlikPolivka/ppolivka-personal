@@ -10,8 +10,6 @@ image:
 ---
 <!--StartFragment-->
 
-![Image for post](https://miro.medium.com/max/30/1*CQH5K1PkvqKmU_3ZB7-8lA.png?q=20)
-
 ![Image for post](https://miro.medium.com/max/1859/1*CQH5K1PkvqKmU_3ZB7-8lA.png)
 
 I have a love-hate relationship with email my entire life. I gave up on email and then Google Inbox came along. It was a perfect product at a perfect time. I achieved inbox zero with it and never had issues maintaining it. It was a combination of perfect design, great features like bundling ad emails together that allowed me to sort through my email in minutes. I never got that with vanilla Gmail.
