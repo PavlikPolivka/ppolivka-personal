@@ -14,8 +14,6 @@ image:
 
 My biggest issue when working was mixing personal and work projects, personal and work Google accounts. Did you ever did a presentation at work and google ads keep serving you ads about new cars you just purchased because you were signed into your Gmail in the work browser.
 
-![Image for post](https://miro.medium.com/max/30/1*YXhDcpg4P-0KVXYKKmZ8vA.png?q=20)
-
 ![Image for post](https://miro.medium.com/max/191/1*YXhDcpg4P-0KVXYKKmZ8vA.png)
 
 I decided to solve this by running two separated browsers. Previously I tried Chrome with multiple profiles, but that never worked ok and I am in the middle of moving away from google. My current setup is having two Firefoxes. I used normal Firefox for my stuff and Firefox Developer edition for my work stuff.
@@ -25,8 +23,6 @@ I am signed into different google accounts. I have different bookmarks.
 This was the best thing I ever did for my productivity.
 
 # Daily checklist
-
-![Image for post](https://miro.medium.com/max/30/1*kzomfKbOv_vv8ciLe3yBmw.png?q=20)
 
 ![Image for post](https://miro.medium.com/max/1567/1*kzomfKbOv_vv8ciLe3yBmw.png)
 
@@ -43,8 +39,6 @@ These are my rules:
 You can do this on paper (what I did) or you can do this in almost any Todo app.
 
 # To read/learn list
-
-![Image for post](https://miro.medium.com/max/30/1*rjlCODsi6bt99YaT3T_CVg.png?q=20)
 
 ![Image for post](https://miro.medium.com/max/1654/1*rjlCODsi6bt99YaT3T_CVg.png)
 
