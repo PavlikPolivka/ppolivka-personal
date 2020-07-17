@@ -7,7 +7,7 @@ external_link: https://www.amazon.com/Permadeath-Fighter-Network-Diaries-Book-eb
 image:
   filename: permadeathfighter.png
   focal_point: Smart
-  preview_only: false
+  preview_only: true
 ---
 <!--StartFragment-->
 
