@@ -16,7 +16,7 @@ In the beginning, I was excited to work from home. I will spend the whole day wi
 
 We decided that we transform our dining table for an office. We do not use that table anyway. We usually eat in the living room. I moved my office chair to the kitchen and placed everything there. My productivity skyrocketed. I am still able to go help my fiance with everything. I still see my family a lot and spend a lot of time with them (not every single minute tho). 
 
-h2. Work the required hours 
+## Work the required hours 
 
 This goes both ways. Do not spend fewer hours and do not spend more hours working. Have a hard stop at 8 hours. When I was going to the office I was working 8 hours and 2 hours commuting. It was hard to adjust to the fact that you end the work and you are at home. I tended to work for at least 1 more our. Plus the usual checking of email and chat every other minute. 
 
