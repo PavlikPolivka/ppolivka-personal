@@ -1,6 +1,7 @@
 ---
 title: Basic desk setup for working from home developer
 date: 2020-09-01T17:19:24.741Z
+summary: "![](img_20200831_091226.jpg)"
 draft: false
 featured: false
 image:
